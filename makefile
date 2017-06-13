@@ -32,7 +32,7 @@ PREFIX=/usr/local
 
 # Set "EXE_SUFFIX" to ".exe" if you're running on Windows, like this:
 # EXE_SUFFIX=.exe
-EXE_SUFFIX=
+EXE_SUFFIX=.exe
 
 # Set this to your C compiler, if it's not "gcc"; a likely alternative is "cc".
 # The "-Wall" option turns on warnings in gcc.  gcc users might also want
